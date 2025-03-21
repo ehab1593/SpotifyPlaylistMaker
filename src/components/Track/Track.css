@@ -1,0 +1,46 @@
+.track-container {
+    padding: 20px;
+    background: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    min-height: 400px;
+    text-align: center;
+  }
+  
+  .track-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #333;
+  }
+  
+  .track-item button {
+    background: #8f3333;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .track-item button:hover {
+    background: #dd5454;
+  }
+  
+  .save-button {
+    background: #1db954;
+    border: none;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .save-button:hover {
+    background: #17a647;
+  }
+  

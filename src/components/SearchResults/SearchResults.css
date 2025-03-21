@@ -1,0 +1,36 @@
+.search-results {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .search-result-item {
+    list-style-type: none;
+    padding: 10px;
+    background-color: #158a42;
+    margin: 5px auto;
+    width: 300px;
+    border-radius: 5px;
+  }
+  
+  button {
+    background: #1db954;
+    border: none;
+    padding: 8px 12px;
+    margin-left: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+  }
+
+  .search-result-item button {
+    background: #1db954;
+    border: none;
+    padding: 5px 8px;
+    border: solid 1px #353535;
+    margin-left: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+  }
